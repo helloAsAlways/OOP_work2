@@ -1,1 +1,1 @@
-run command: dotnet run homework.cs
+run command: dotnet run Homework.cs
